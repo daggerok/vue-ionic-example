@@ -5,7 +5,7 @@
   "scripts": {
     "start": "vue-cli-service serve",
     "build": "vue-cli-service build",
-    "predeploy": "cross-env BASE_HREF='vue-ionic-example/' npm run build",
+    "predeploy": "cross-env BASE_HREF='/vue-ionic-example/' npm run build",
     "test": "vue-cli-service test:unit"
   },
   "dependencies": {
