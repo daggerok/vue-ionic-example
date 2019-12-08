@@ -1,4 +1,4 @@
-# vue-ionic-example
+# vue-ionic-example [![Build Status](https://travis-ci.org/daggerok/vue-ionic-example.svg?branch=master)](https://travis-ci.org/daggerok/vue-ionic-example)
 How to start new Vue Ionic project
 
 ## Project setup
