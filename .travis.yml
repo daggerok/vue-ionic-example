@@ -47,7 +47,7 @@ jobs:
         - wait_healthy_docker_containers 1
       script:
         - http :/
-      after_script: docker rm -a -v app
+      after_script: docker rm -f -v app
     - stage: deploy
       name: GitHub pages deploy
       script: skip
