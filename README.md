@@ -68,8 +68,17 @@ npm run build
 ```bash
 npm t
 ```
+## other repositories
+
+* https://github.com/daggerok/typescript-ionic-nuxt-app
+* https://github.com/daggerok/ionic-nuxt-ap
+* https://github.com/daggerok/nuxt-examples
+* https://github.com/daggerok/vue-examples
 
 ## resources
 
+* https://forum.ionicframework.com/t/is-it-possible-to-use-ionic-with-nuxt/163202/3
+* https://ionicframework.com/docs/installation/cdn
+* [Nuxt.js docs](https://nuxtjs.org)
 * https://github.com/ionic-team/ionic/issues/18640#issuecomment-506304099
 * [Configuration Reference](https://cli.vuejs.org/config/)
