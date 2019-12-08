@@ -46,7 +46,7 @@ jobs:
                                                                   nginx:1.17.6-alpine
         - wait_healthy_docker_containers 1
       script:
-        - http :8080
+        - http :/
       after_script: docker rm -a -v app
     - stage: deploy
       name: GitHub pages deploy
